@@ -1,0 +1,41 @@
+
+Chaine 1 : UGG
+Chaine 2 : UGG
+Deviation maximale : 1
+similarite : 1.0
+
+-------------------------------------
+
+Chaine 1 : UAG
+Chaine 2 : UGA
+Deviation maximale : 1
+similarite : 0.0024787521766663585
+
+-------------------------------------
+
+Chaine 1 : AAAAAG
+Chaine 2 : AAAAAU
+Deviation maximale : 2
+similarite : 0.43009464064006225
+
+-------------------------------------
+
+Chaine 1 : CCCCCCAAA
+Chaine 2 : AAACCCCCC
+Deviation maximale : 3
+similarite : 0.513417119032592
+
+-------------------------------------
+
+Chaine 1 : CCCCCCAAA
+Chaine 2 : AAACCCCCC
+Deviation maximale : 1
+similarite : 0.06948345122280154
+
+-------------------------------------
+
+Chaine 1 : CGUCGCCGA
+Chaine 2 : CGGAGAAGG
+Deviation maximale : 3
+similarite : 1.0
+
